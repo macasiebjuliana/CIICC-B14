@@ -1,7 +1,7 @@
 # CIICC-B14
 for TESDA purposes
 # 💫 About Me:
-🔭 I'm a Photographer, Videographer, Developer, and Programmer<br>📚 Studying in Center for International Industries Competence Corp (CIICC) 👯 I’m looking to collaborate on someone who has same skills as me<br>🌱 I’m currently learning C++, JavaScript, and HTML<br>💬 Ask me about editing and coding <br>⚡ Fun fact I do volunteer and freelancing in Philippines, San Mateo, Rizal as a Photographer/Videographer
+🔭 I'm a Photographer, Videographer, Developer, and Programmer<br>📚 Studying in Center for International Industries Competence Corp (CIICC) <br>👯 I’m looking to collaborate on someone who has same skills as me<br>🌱 I’m currently learning C++, JavaScript, and HTML<br>💬 Ask me about editing and coding <br>⚡ Fun fact I do volunteer and freelancing in Philippines, San Mateo, Rizal as a Photographer/Videographer
 
 
 ## 🌐 Socials:
